@@ -1,13 +1,17 @@
-# Python Calculator
+# Python Calculator Project
 
-This is a simple calculator made using Python.
+This is a simple calculator built using Python.  
+It performs basic arithmetic operations like addition, subtraction, multiplication, and division.
 
 ## Features
 - Addition
 - Subtraction
 - Multiplication
 - Division
-- Multiple calculations loop
+- Error handling for division by zero
 
-## How to use
-Run calculator.py and enter numbers.
+## Purpose
+This project was created as my first step in learning Python programming and building real-world software projects.
+
+## Tech Used
+- Python
